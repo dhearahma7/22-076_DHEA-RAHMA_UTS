@@ -1,0 +1,83 @@
+.posisi{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 130px;
+}
+
+.font{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+.login{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(60, 150, 224);
+}
+
+.button{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.style-logo{
+    position: absolute;
+    align-items: center;
+    width: 30px;
+    height: 70px;
+    left: 25px;
+    font-style: normal;
+    font-size: 27px;
+    font-weight: bold;
+    color: white;
+}
+
+.warna{
+    background-color: rgb(236, 236, 236);
+}
+
+.user{
+    position: absolute;
+    align-items: center;
+    height: 40px;
+    color: white;
+    left: 150px;
+    font-weight: bold;
+}
+
+.navbar{
+    color: white;
+}
+
+.judul{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.offcanvas-body button{
+    position: absolute;
+    bottom: 15px;
+    width: 90%;
+    right: 50px;
+    font-weight: bold;
+    left: 25px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    border-radius: 50px;
+    background-color: rgb(224, 79, 79);
+ 
+}
+
+.search{
+    align-items: right;
+    justify-content: right;
+}
+
+.cari{
+    float: left;
+    margin-left: 700px;
+}
